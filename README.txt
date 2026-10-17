@@ -1,0 +1,3 @@
+WHITELION INTERACTIVE BNI PRESENTATION
+
+Open index.html in Chrome or Edge. Keep the folder structure intact. The intro video and product images are local files, so an internet connection is not required. Press Start the experience, then play the transition video to include its audio. Browser autoplay rules require a click before sound can play. Use the bottom navigation, arrow keys, product cards, and interactive room demo. Approximate six-minute pacing: Welcome 30s, video 35s, 10-inch panel 75s, live demo 90s, ecosystem 65s, value/testimonial 55s, close 30s. Replace the illustrative quote with a verified testimonial if you have one.
